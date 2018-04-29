@@ -1,0 +1,19 @@
+{
+    "name": "shridharkaushik29/laravel-hooks",
+    "description": "Wordpress like actions and filters for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shridhar Sharma",
+            "email": "shridharkaushik29@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Shridhar\\Hooks\\": "src/"      
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
